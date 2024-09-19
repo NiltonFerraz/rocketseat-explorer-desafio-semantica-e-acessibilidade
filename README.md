@@ -1,8 +1,8 @@
-# Intermediário - Semântica e acessibilidade. 💜
 
-# 💻 Sobre o desafio
 
-Sabemos que a maior parte do conteúdo disponível na internet hoje pode se tornar acessível apenas com a utilização **correta** dos elementos do HTML.
+# 💻 Desafio sobre Semântica e acessibilidade 💜
 
-Você receberá um código com o projeto desenvolvido durante a Fase 02, mas, ao contrário do que foi feito em aula, ele **não** apresenta a semântica correta.
-Como você pode ver na imagem abaixo, a página ~~(exceto o botão)~~ continua funcionando normalmente mas, quando você abrir o código, vai se deparar com os elementos do HTML todos bagunçados... **👀**
+**👀** Neste desafio aprendi a organizar o Html de modo a facilitar a acessibilidade, usando classes, main, section, footer.
+
+![image](https://github.com/user-attachments/assets/55cb41d9-45c0-4bfb-8dd7-d0f04ad98cdd)
+
